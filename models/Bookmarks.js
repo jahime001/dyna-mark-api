@@ -8,6 +8,7 @@ const Tags = new Schema({
 
 const BookMark = new Schema({
   title: String,
+  preview: String,
   description: String,
   link: String,
   tags: [Tags],
