@@ -1,1 +1,246 @@
-//bookmark
+[
+    {
+        "title": "Animista",
+        "preview": "Css animation generator",
+        "description": "Css animation generator",
+        "link": "https://animista.net/play/basic",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Css", "Generator", "Front-End" ]
+    },
+    {
+        "title": "Mozilla",
+        "preview": "Web development guide",
+        "description": "Web development guide",
+        "link": "https://developer.mozilla.org/en-US/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "Front-End", "Back-End"]
+    },
+    {
+        "title": "MongoDB Documentation",
+        "preview": "Resources for MongoDB",
+        "description": "Find the guides, samples, and references you need to use the database, visualize data, and build applications on the MongoDB data platform.",
+        "link": "https://www.mongodb.com/docs/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "MongoDB", "Back-End", "Database"]
+    },
+    {
+        "title": "Express",
+        "preview": "Routing documentation",
+        "description": "Learn about Express route methods, paths, params, and handlers",
+        "link": "https://expressjs.com/en/guide/routing.html",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "Express", "Back-End"]
+    },
+    {
+        "title": "Rapid Api",
+        "preview": "Api Hub",
+        "description": "Connect to and manage APIs across multiple cloud environments",
+        "link": "https://rapidapi.com/hub",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Api","Front-End", "Back-End"]
+    },
+    {
+        "title": "JSchallenger",
+        "preview": "Beginner friendly JavaScript exercises",
+        "description": "Here you will find a lot of beginner friendly JavaScript exercises. If you are just starting to learn JavaScript online this is the right place for you. We will start with the core syntax of the programming language. Then, we will slowly introduce the key concepts of JavaScript.",
+        "link": "https://www.jschallenger.com/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice"]
+    },
+    {
+        "title": "Css Grid Generator",
+        "preview": " Auto generate grids in css",
+        "description": "Though this project can get a basic layout started for you, this project is not a comprehensive tour of CSS Grid capabilities. It is a way for you to use CSS Grid features quickly.",
+        "link": "https://cssgrid-generator.netlify.app/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": []
+    },
+    {
+        "title": "Google Firebase",
+        "preview": "Firebase is an app development platform",
+        "description": "Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.",
+        "link": "https://firebase.google.com/docs?gclid=CjwKCAiAs8acBhA1EiwAgRFdw_M7EleVRJ-HDk0q04HCvPg-UjGEsvBllspRhxE9KJGEx286FDpbiRoCyfsQAvD_BwE&gclsrc=aw.ds",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Back-End", "Api", "Database"]
+    },
+    {
+        "title": "Eloquent Javascript",
+        "preview": "This is a book about Javascript",
+        "description": "This is a book about JavaScript, programming, and the wonders of the digital. You can read it online here, or buy your own paperback copy.",
+        "link": "https://eloquentjavascript.net/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Reads"]
+    },
+    {
+        "title": "Redis",
+        "preview": "The open source, in-memory data store",
+        "description": "The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker.",
+        "link": "https://redis.io/docs/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Back-End", "Api", "Database"]
+    },
+    {
+        "title": "Codewars",
+        "preview": "Train on programming challenges",
+        "description": "Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.",
+        "link": "https://www.codewars.com/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice"]
+    },
+    {
+        "title": "Shape Divider App",
+        "preview": "A beautiful SVG shape divider",
+        "description": "Our Shape Dividers are premade SVG shapes that are not dynamic to the settings you use on the toolbar. Every Shape exported will come out as per it's original design and is manipulated via the code you export with it and implement into your web build.",
+        "link": "https://www.shapedivider.app",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["SVG", "Css", "Generator", "Front-End"]
+    },
+    {
+        "title": "React Icons",
+        "preview": "SVG icons for your website",
+        "description": "Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.",
+        "link": "https://react-icons.github.io/react-icons/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["SVG", "Css", "Front-End", "React"]
+    },
+    {
+        "title": "LeetCode",
+        "preview": "Enhance your skills through practice",
+        "description": "LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.",
+        "link": "https://leetcode.com/problemset/all/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice"]
+    },
+    {
+        "title": "React",
+        "preview": "A JavaScript library for building user interfaces",
+        "description": "React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.",
+        "link": "https://reactjs.org/docs/getting-started.html",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Front-End", "Javascript"]
+    },
+    {
+        "title": "W3Schools",
+        "preview": "Practice React with W3Schools",
+        "description": "We have gathered a variety of React exercises (with answers) for each React Chapter. Try to solve an exercise by filling in the missing parts of a code. If you're stuck, hit the 'Show Answer' button to see what you've done wrong.",
+        "link": "https://www.w3schools.com/react/react_exercises.asp",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice", "W3Schools"]
+    },
+    {
+        "title": "W3Schools",
+        "preview": "Practice HTML with W3 Schools",
+        "description": "We have gathered a variety of HTML exercises (with answers) for each HTML Chapter. Try to solve an exercise by editing some code. Get a hint if you're stuck, or show the answer to see what you've done wrong.",
+        "link": "https://www.w3schools.com/html/html_exercises.asp",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice","W3Schools" ]
+    },
+    {
+        "title": "Next JS Docs",
+        "preview": "a pre-rendered React app in the client-side ",
+        "description": "Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.",
+        "link": "https://nextjs.org/docs",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "Back-End", "Framework"]
+    },
+    {
+        "title": "W3Schools",
+        "preview": "Practice Javascript with W3Schools",
+        "description": "We have gathered a variety of JavaScript exercises (with answers) for each JavaScript Chapter. Try to solve an exercise by editing some code, or show the answer to see what you've done wrong.",
+        "link": "https://www.w3schools.com/js/js_exercises.asp",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Practice","W3Schools"]
+    },
+    {
+        "title": "React Docs",
+        "preview": "This page is an overview of the",
+        "description": "React is a JavaScript library for building user interfaces. Learn what React is all about.",
+        "link": "https://reactjs.org/docs/getting-started.html",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "React"]
+    },
+    {
+        "title": "TypeScript Docs",
+        "preview": "TypeScript is a strongly typed programming language",
+        "description": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+        "link": "https://www.typescriptlang.org/docs/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Documentation", "Javascript"]
+    },
+    {
+        "title": "D3 JS",
+        "preview": "Manipulate documents based on data",
+        "description": "D3 allows you to bind arbitrary data to a Document Object Model (DOM), and then apply data-driven transformations to the document. For example, you can use D3 to generate an HTML table from an array of numbers. Or, use the same data to create an interactive SVG bar chart with smooth transitions and interaction.",
+        "link": "https://d3js.org",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Html","Css", "Javascript", "Api", "Html","Front-End"]
+    },
+    {
+        "title": "Codepen",
+        "preview": "Online Code Editor",
+        "description": "CodePen is a social development environment. At its heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating online code editor for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.",
+        "link": "https://codepen.io/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Code Editor", "Front-End"]
+    },
+    {
+        "title": "Playcode",
+        "preview": "Javascript Playground",
+        "description": "The #1 JavaScript playground and sandbox to write, run and repl it. JavaScript playground is perfect for learning and prototyping javascript sandboxes. Fast. Easy to use. Start javascript playground project using ready to use templates.",
+        "link": "https://playcode.io/new",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["Code Editor","Front-End"]
+    },
+    {
+        "title": "HTML Cheatsheet",
+        "preview": "Read about the basics of HTML",
+        "description": "HTML Cheatsheet will help show you the basic structures of  HTML and includes helpful resources and tutorials!",
+        "link": "https://htmlcheatsheet.com/",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": ["HTML", "Front-End"]
+        },
+        {
+            "title": "W3Editor",
+            "preview": "W3Schools Code Editor",
+            "description": "With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.",
+            "link": "https://www.w3schools.com/tryit/",
+            "likes": 0,
+            "dislikes": 0,
+            "tags": ["Code Editor", "W3Schools"]
+        },
+    {
+        "title": "",
+        "preview": "",
+        "description": "",
+        "link": "",
+        "likes": 0,
+        "dislikes": 0,
+        "tags": []
+    },
+    
+]
