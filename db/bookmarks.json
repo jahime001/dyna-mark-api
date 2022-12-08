@@ -232,15 +232,5 @@
             "likes": 0,
             "dislikes": 0,
             "tags": ["Code Editor", "W3Schools"]
-        },
-    {
-        "title": "",
-        "preview": "",
-        "description": "",
-        "link": "",
-        "likes": 0,
-        "dislikes": 0,
-        "tags": []
-    },
-    
+        }
 ]
