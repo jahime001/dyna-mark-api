@@ -6,7 +6,7 @@
         "link": "https://animista.net/play/basic",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Css", "Generator", "Front-End" ]
+        "tags": ["css", "generator", "frontend" ]
     },
     {
         "title": "Mozilla",
@@ -15,7 +15,7 @@
         "link": "https://developer.mozilla.org/en-US/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "Front-End", "Back-End"]
+        "tags": ["documentation", "front-end", "backend"]
     },
     {
         "title": "MongoDB Documentation",
@@ -24,7 +24,7 @@
         "link": "https://www.mongodb.com/docs/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "MongoDB", "Back-End", "Database"]
+        "tags": ["documentation", "mongodb", "backend", "database"]
     },
     {
         "title": "Express",
@@ -33,7 +33,7 @@
         "link": "https://expressjs.com/en/guide/routing.html",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "Express", "Back-End"]
+        "tags": ["documentation", "express", "backend"]
     },
     {
         "title": "Rapid Api",
@@ -42,7 +42,7 @@
         "link": "https://rapidapi.com/hub",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Api","Front-End", "Back-End"]
+        "tags": ["api","frontend", "backend"]
     },
     {
         "title": "JSchallenger",
@@ -51,7 +51,7 @@
         "link": "https://www.jschallenger.com/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice"]
+        "tags": ["practice"]
     },
     {
         "title": "Css Grid Generator",
@@ -60,7 +60,7 @@
         "link": "https://cssgrid-generator.netlify.app/",
         "likes": 0,
         "dislikes": 0,
-        "tags": []
+        "tags": ["css"]
     },
     {
         "title": "Google Firebase",
@@ -69,7 +69,7 @@
         "link": "https://firebase.google.com/docs?gclid=CjwKCAiAs8acBhA1EiwAgRFdw_M7EleVRJ-HDk0q04HCvPg-UjGEsvBllspRhxE9KJGEx286FDpbiRoCyfsQAvD_BwE&gclsrc=aw.ds",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Back-End", "Api", "Database"]
+        "tags": ["backend", "api", "database"]
     },
     {
         "title": "Eloquent Javascript",
@@ -78,7 +78,7 @@
         "link": "https://eloquentjavascript.net/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Reads"]
+        "tags": ["reads"]
     },
     {
         "title": "Redis",
@@ -87,7 +87,7 @@
         "link": "https://redis.io/docs/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Back-End", "Api", "Database"]
+        "tags": ["backend", "api", "database"]
     },
     {
         "title": "Codewars",
@@ -96,7 +96,7 @@
         "link": "https://www.codewars.com/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice"]
+        "tags": ["practice"]
     },
     {
         "title": "Shape Divider App",
@@ -105,7 +105,7 @@
         "link": "https://www.shapedivider.app",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["SVG", "Css", "Generator", "Front-End"]
+        "tags": ["svg", "css", "generator", "frontend"]
     },
     {
         "title": "React Icons",
@@ -114,7 +114,7 @@
         "link": "https://react-icons.github.io/react-icons/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["SVG", "Css", "Front-End", "React"]
+        "tags": ["svg", "css", "frontend", "react"]
     },
     {
         "title": "LeetCode",
@@ -123,7 +123,7 @@
         "link": "https://leetcode.com/problemset/all/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice"]
+        "tags": ["practice"]
     },
     {
         "title": "React",
@@ -132,7 +132,7 @@
         "link": "https://reactjs.org/docs/getting-started.html",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Front-End", "Javascript"]
+        "tags": ["frontend", "javascript"]
     },
     {
         "title": "W3Schools",
@@ -141,7 +141,7 @@
         "link": "https://www.w3schools.com/react/react_exercises.asp",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice", "W3Schools"]
+        "tags": ["practice", "w3schools"]
     },
     {
         "title": "W3Schools",
@@ -150,7 +150,7 @@
         "link": "https://www.w3schools.com/html/html_exercises.asp",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice","W3Schools" ]
+        "tags": ["practice","w3schools" ]
     },
     {
         "title": "Next JS Docs",
@@ -159,7 +159,7 @@
         "link": "https://nextjs.org/docs",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "Back-End", "Framework"]
+        "tags": ["documentation", "backend", "framework"]
     },
     {
         "title": "W3Schools",
@@ -168,7 +168,7 @@
         "link": "https://www.w3schools.com/js/js_exercises.asp",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Practice","W3Schools"]
+        "tags": ["practice","w3schools"]
     },
     {
         "title": "React Docs",
@@ -177,7 +177,7 @@
         "link": "https://reactjs.org/docs/getting-started.html",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "React"]
+        "tags": ["documentation", "react"]
     },
     {
         "title": "TypeScript Docs",
@@ -186,7 +186,7 @@
         "link": "https://www.typescriptlang.org/docs/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Documentation", "Javascript"]
+        "tags": ["documentation", "javascript"]
     },
     {
         "title": "D3 JS",
@@ -195,7 +195,7 @@
         "link": "https://d3js.org",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Html","Css", "Javascript", "Api", "Html","Front-End"]
+        "tags": ["html","css", "javascript", "api","frontend"]
     },
     {
         "title": "Codepen",
@@ -204,7 +204,7 @@
         "link": "https://codepen.io/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Code Editor", "Front-End"]
+        "tags": ["codeeditor", "frontend"]
     },
     {
         "title": "Playcode",
@@ -213,7 +213,7 @@
         "link": "https://playcode.io/new",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["Code Editor","Front-End"]
+        "tags": ["codeeitor","frontend"]
     },
     {
         "title": "HTML Cheatsheet",
@@ -222,7 +222,7 @@
         "link": "https://htmlcheatsheet.com/",
         "likes": 0,
         "dislikes": 0,
-        "tags": ["HTML", "Front-End"]
+        "tags": ["html", "frontend"]
         },
         {
             "title": "W3Editor",
@@ -231,7 +231,7 @@
             "link": "https://www.w3schools.com/tryit/",
             "likes": 0,
             "dislikes": 0,
-            "tags": ["Code Editor", "W3Schools"]
+            "tags": ["codeeditor", "w3schools"]
         }
     
 ]
