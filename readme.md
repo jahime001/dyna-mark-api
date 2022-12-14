@@ -14,7 +14,7 @@
 
 ## Project Links
 - [GitHub Front-end Repo](https://github.com/jahime001/dyna-mark)
-- [Deployed Front-end](https://dyna-mark.vercel.app/discover)
+- [Deployed Front-end](https://dyna-mark.vercel.app/)
 - [Deployed Back-end](https://dyna-mark.fly.dev/api/bookmark)
 
 ## Project Overview
