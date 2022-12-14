@@ -22,7 +22,7 @@
 | Total | H | 12hrs| 8hrs | 8hrs |
 
 ### Req-Res Diagram
-![Screen Shot 2022-12-07 at 8 15 03 PM]
+![Screen Shot 2022-12-07 at 8 28 58 PM](https://user-images.githubusercontent.com/108837222/207635273-987a4e0b-9e9e-40c0-ad05-e74f6db9c650.png)
 
 ### User Stories
 As a user, I want to be able to access data in my database
@@ -31,6 +31,8 @@ As a user, I want to be able to update enteries in my database
 As a user, I want to be able to delete entries in my database
 
 ### Code Snippet (For our seed file)
+
+```
 //seedJS
 const bookMarkData = require('../db/bookmarks.json')
 const BookMark = require('../models/Bookmarks');
@@ -43,6 +45,7 @@ BookMark.deleteMany()
   .then(console.log)
   .catch(console.error)
   .finally(process.exit);
+```
 
 ### Issues and Resolutions
 **ERROR**: Inaccurate Node Modules
