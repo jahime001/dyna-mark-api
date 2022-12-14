@@ -1,5 +1,10 @@
 # Dyna-Mark-API (Back-End)
 
+## Creators
+- Bibhor Gurung
+- Jahime Cameau
+- Morgan Arancibia
+
 ## Project Links
 - [GitHub Front-end Repo](https://github.com/jahime001/dyna-mark)
 - [Deployed Front-end](https://dyna-mark.vercel.app/discover)
