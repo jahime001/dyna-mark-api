@@ -5,6 +5,13 @@
 - Jahime Cameau
 - Morgan Arancibia
 
+## Installation & Setup
+- Fork & Clone this repo
+- Run "npm i" in the terminal
+- Run "npm i nodemon" in the terminal
+- Run "mongosh" in the terminal to run mongoose 
+- Run "nodemon" in the terminal to test the backend
+
 ## Project Links
 - [GitHub Front-end Repo](https://github.com/jahime001/dyna-mark)
 - [Deployed Front-end](https://dyna-mark.vercel.app/discover)
