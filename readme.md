@@ -1,5 +1,10 @@
 # Dyna-Mark-API (Back-End)
 
+## Project Links
+- [GitHub Front-end Repo](https://github.com/jahime001/dyna-mark)
+- [Deployed Front-end](https://dyna-mark.vercel.app/discover)
+- [Deployed Back-end](https://dyna-mark.fly.dev/api/bookmark)
+
 ## Project Overview
 
 | Directories | Description | 
@@ -25,10 +30,10 @@
 ![Screen Shot 2022-12-07 at 8 28 58 PM](https://user-images.githubusercontent.com/108837222/207635273-987a4e0b-9e9e-40c0-ad05-e74f6db9c650.png)
 
 ### User Stories
-As a user, I want to be able to access data in my database
-As a user, I want to be able to add new entries into my database
-As a user, I want to be able to update enteries in my database
-As a user, I want to be able to delete entries in my database
+- As a user, I want to be able to access data in my database
+- As a user, I want to be able to add new entries into my database
+- As a user, I want to be able to update enteries in my database
+- As a user, I want to be able to delete entries in my database
 
 ### Code Snippet (For our seed file)
 
@@ -48,8 +53,8 @@ BookMark.deleteMany()
 ```
 
 ### Issues and Resolutions
-**ERROR**: Inaccurate Node Modules
+- **ERROR**: Inaccurate Node Modules
 **RESOLUTION**: Deleting modules and reinstalling them with assistance from our instructor David Magbee
 
-**ERROR**: Seeding Data
+- **ERROR**: Seeding Data
 **RESOLUTION**: Using delete many to clear the location for the seeded data, then using insert many to place the seeded data if more than one
